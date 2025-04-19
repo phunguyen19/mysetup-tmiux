@@ -4,7 +4,7 @@ This setup includes a custom `.tmux.conf` configuration and a helper script `.tm
 
 ## 📦 Usage
 
-> You do not need to clone this repository. Just copy the two files directly to your home directory
+> You do not need to clone this repository. Just copy files directly to your home directory
 
 1. Copy the files to your home directory:
 
