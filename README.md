@@ -2,7 +2,7 @@
 
 This setup includes a custom `.tmux.conf` configuration and a helper script `.tmux-switch.sh` for improving your tmux workflow.
 
-## Usage
+## 📦 Usage
 
 > You do not need to clone this repository. Just copy the two files directly to your home directory
 
